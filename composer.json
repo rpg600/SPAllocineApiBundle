@@ -1,0 +1,14 @@
+{
+    "name": "sp/allocine-api-bundle",
+    "description": "Allocine API cleint",
+    "require": {
+        "guzzle/guzzle": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Reinis Grinbergs",
+            "email": "rpg600@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
