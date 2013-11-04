@@ -1,0 +1,6 @@
+parameters:
+    allocine.api.class: SP\AllocineBundle\API\AllocineApi
+
+services:
+    allocine.api:
+        class: %allocine.api.class%
