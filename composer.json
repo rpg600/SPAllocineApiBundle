@@ -15,5 +15,6 @@
         "psr-0": {
             "SP\\AllocineBundle": ""
         }
-    }
+    },
+    "target-dir": "SP/AllocineBundle"
 }
